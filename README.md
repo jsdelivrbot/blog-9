@@ -18,3 +18,7 @@
 ![image](https://github.com/yanfeng215/blog/raw/master/images/rimagesimages32.png)
 ![image](https://github.com/yanfeng215/blog/raw/master/images/search.png)
 ![image](https://github.com/yanfeng215/blog/raw/master/images/favicon.ico)
+![image](https://github.com/yanfeng215/blog/raw/master/images/slider_knob.gif)
+![image](https://github.com/yanfeng215/blog/raw/master/images/bottom_bg.png)
+![image](https://github.com/yanfeng215/blog/raw/master/images/hd_bg.png)
+![image](https://github.com/yanfeng215/blog/raw/master/images/repeat_bg.png)
