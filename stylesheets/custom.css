@@ -145,7 +145,7 @@ background-image:-moz-linear-gradient(center top , #fff, #ccc);background-image:
 	margin-left:-10px;
 	width:20px; height:20px;
 	overflow:hidden;
-	background:url(http://paginator3000js.googlecode.com/svn/trunk/paginator/slider_knob.gif) no-repeat 50% 50%;
+	background:url(https://rawgit.com/yanfeng215/blog/gh-pages/images/slider_knob.gif) no-repeat 50% 50%;
 	cursor:pointer; cursor:hand;
 }
 .paginator .current_page_mark {
