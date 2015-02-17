@@ -1,0 +1,14 @@
+﻿document.writeln("<script type=\"text/javascript\"><!--");
+document.writeln("function getMailAddress2(username, lowercase) {");
+document.writeln("	if (lowercase) {");
+document.writeln("		var postfix = \'@\' + \'gm\' + \'ai\' + \'l\' + \'.com\';");
+document.writeln("		username = username.toLowerCase();");
+document.writeln("	} else {");
+document.writeln("		var postfix = \'@\' + \'Gm\' + \'ai\' + \'l\' + \'.com\';");
+document.writeln("	}");
+document.writeln("	return (username + postfix);");
+document.writeln("}");
+document.writeln("function printMailAddress2(username) {");
+document.writeln("	document.write(getMailAddress2(username, false));");
+document.writeln("}");
+document.writeln("//--></script><a href=\"#\" onclick=\"location.href=\'mailto:\'+getMailAddress2(\'silenceto\', true);\"><script type=\"text/javascript\">printMailAddress2(\'Silenceto\');</script></a>");
