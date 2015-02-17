@@ -16,3 +16,5 @@
 ![image](https://github.com/yanfeng215/blog/raw/master/images/morep.png)
 ![image](https://github.com/yanfeng215/blog/raw/master/images/new_poimagestimages.png)
 ![image](https://github.com/yanfeng215/blog/raw/master/images/rimagesimages32.png)
+![image](https://github.com/yanfeng215/blog/raw/master/images/search.png)
+![image](https://github.com/yanfeng215/blog/raw/master/images/favicon.ico)
