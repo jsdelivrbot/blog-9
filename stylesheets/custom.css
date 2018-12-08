@@ -60,7 +60,7 @@ h1 a:hover,h1 a:active{color:#eee;text-decoration:none;background:none}
 /*.post-labels a{background:url(http://www.google.com/reader/ui/1019828636-annotation-tip-arrow-left.gif) no-repeat; padding-left:5px}*/
 
 .feed-links{text-align:right; font-size:16px; font-weight:bold; padding:10px 0 10px 0}
-.feed-links a{background:url("https://rawgit.com/yanfeng215/blog/gh-pages/images/rss32.png") no-repeat scroll right center transparent; padding-right:20px}
+.feed-links a{background:url("https://cdn.jsdelivr.net/gh/yanfeng215/blog@gh-pages/images/rss32.png") no-repeat scroll right center transparent; padding-right:20px}
 .blog-pager{padding-bottom:5px; overflow:hidden; text-align:center; font-size:14px;zoom:1}
 #blog-pager-older-link{float:right}
 #blog-pager-newer-link{float:left}
